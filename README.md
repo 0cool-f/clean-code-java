@@ -5,14 +5,12 @@
   2. [Variables](#variables)
   3. [Functions](#functions)
   4. [Objects and Data Structures](#objects-and-data-structures)
-  5. [Classes](#classes)
-  6. [SOLID](#solid)
-  7. [Testing](#testing)
-  8. [Concurrency](#concurrency)
-  9. [Error Handling](#error-handling)
-  10. [Formatting](#formatting)
-  11. [Comments](#comments)
-  12. [Translation](#translation)
+  5. [SOLID](#solid)
+  6. [Testing](#testing)
+  7. [Error Handling](#error-handling)
+  8. [Formatting](#formatting)
+  9. [Comments](#comments)
+  10. [Translation](#translation)
 
 ## Introduction
 <picture><img src="https://www.monkeyuser.com/2018/last-push/112-last-push.png" alt="Humorous image of code review" width="500"/></picture>
