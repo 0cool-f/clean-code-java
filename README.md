@@ -15,8 +15,7 @@
   12. [Translation](#translation)
 
 ## Introduction
-![Humorous image of software quality estimation as a count of how many expletives
-you shout when reading code](http://www.osnews.com/images/comics/wtfm.jpg)
+<picture><img src="https://www.monkeyuser.com/2018/last-push/112-last-push.png" alt="Humorous image of code review" width="500"/></picture>
 
 Software engineering principles, from Robert C. Martin's book
 [*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
@@ -263,7 +262,7 @@ private void addMonthToDate(Date date, int month){
 }
 
 Date date = new Date();
-addMonthToDate(1, date);
+addMonthToDate(date, 1);
 ```
 
 **[⬆ back to top](#table-of-contents)**
